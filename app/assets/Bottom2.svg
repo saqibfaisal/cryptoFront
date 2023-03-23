@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="vuesax_bold_chart-2" data-name="vuesax/bold/chart-2" transform="translate(-236 -188)">
+    <g id="chart-2" transform="translate(236 188)">
+      <path id="Vector" d="M11.825,0H4.842A4.447,4.447,0,0,0,0,4.842v6.975a4.45,4.45,0,0,0,4.842,4.85h6.975a4.447,4.447,0,0,0,4.842-4.842V4.842A4.437,4.437,0,0,0,11.825,0ZM6.592,11.825a.971.971,0,0,1-1.942,0V9.108a.971.971,0,0,1,1.942,0Zm5.425,0a.971.971,0,0,1-1.942,0V4.842a.971.971,0,0,1,1.942,0Z" transform="translate(1.667 1.667)" fill="#fff"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0H20V20H0Z" transform="translate(20 20) rotate(180)" fill="#fff" opacity="0"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg id="vuesax_bold_bitcoin-convert" data-name="vuesax/bold/bitcoin-convert" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="bitcoin-convert" transform="translate(0 0)">
+    <path id="Vector" d="M0,0H30V30H0Z" transform="translate(0 0)" fill="none" opacity="0"/>
+    <g id="Group_19298" data-name="Group 19298" transform="translate(1.641 0.85)">
+      <path id="Vector-2" data-name="Vector" d="M0,9.057A9.158,9.158,0,0,1,7.689,0V.03A11.521,11.521,0,0,0,18.232,10.544,9.177,9.177,0,0,1,0,9.057Z" transform="translate(0 10.306)" fill="#1ee8b7"/>
+      <path id="Vector-3" data-name="Vector" d="M3.629.565A.632.632,0,0,0,3.064,0H0V1.115H3.064A.543.543,0,0,0,3.629.565Z" transform="translate(16.418 6.945)" fill="#1ee8b7"/>
+      <path id="Vector-4" data-name="Vector" d="M3.658,0H0V1.115H3.673c.476,0,.8-.3.8-.565S4.134,0,3.658,0Z" transform="translate(16.418 10.306)" fill="#1ee8b7"/>
+      <path id="Vector-5" data-name="Vector" d="M18.337,8.477A9.182,9.182,0,0,0,9.89.03C9.652.015,9.429,0,9.176,0a9.183,9.183,0,1,0,9.191,9.191C18.366,8.938,18.351,8.715,18.337,8.477ZM10.9,13.652H9.919v.565a1.115,1.115,0,1,1-2.231,0v-.565H6.127a1.123,1.123,0,0,1-1.115-1.115V5.844A1.123,1.123,0,0,1,6.127,4.729H7.689V4.164a1.115,1.115,0,1,1,2.231,0v.565h.387a2.872,2.872,0,0,1,2.8,2.8,2.759,2.759,0,0,1-.283,1.2,2.663,2.663,0,0,1,1.115,2.141A2.915,2.915,0,0,1,10.9,13.652Z" transform="translate(9.176)" fill="#1ee8b7"/>
+    </g>
+  </g>
+</svg>
